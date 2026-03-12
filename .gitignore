@@ -1,0 +1,42 @@
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# MacOS files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Vector database / embeddings
+vectorstore/
+
+# Logs
+*.log
+
+# Python build files
+build/
+dist/
+*.egg-info/
+
+# Temporary files
+*.tmp
+*.swp
+
+# Streamlit cache
+.streamlit/
+
+# SQLite databases
+*.db
